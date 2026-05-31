@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheferify",
+        "uuid": 14796843,
+        "checksum": "nzf8z6"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
